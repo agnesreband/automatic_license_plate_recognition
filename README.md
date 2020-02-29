@@ -4,7 +4,7 @@ December 2019 University of Chicago Master's of Science in Analytics final capst
 
 We are quite proud of the work we've done so please take a look!
 
-![ALPR Capstone Team](https://files.slack.com/files-pri/T2FPWEM7G-FUPFK0V0Q/img_181210104328772-1.jpg "ALPR Capstone Team")
+![image](https://files.slack.com/files-pri/T2FPWEM7G-FUPFK0V0Q/img_181210104328772-1.jpg "ALPR Capstone Team")
 
 
 
